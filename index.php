@@ -186,5 +186,5 @@
 </body>
 <script src="js/jquery.js"></script>
 <script src="js/functions.js"></script>
-teste php
+
 </html>
